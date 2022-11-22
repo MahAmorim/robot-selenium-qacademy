@@ -1,0 +1,5 @@
+#
+#*.gitattributes linguist-language=gitattributes
+*.html linguist-detectable=false
+*.robotframework linguist-detectable=true
+*.python linguist-detectable=true
